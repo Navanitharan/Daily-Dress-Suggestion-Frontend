@@ -1,0 +1,12 @@
+.aboutContainer{
+    height: 50vh;
+    text-align: center;
+    padding: 25% 0%;
+}
+.aboutContainer h1{
+    font-size: 24px;
+    font-weight: bold;
+}
+.aboutContainer p{
+    font-size: 16px;
+}
